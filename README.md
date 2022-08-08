@@ -1,7 +1,9 @@
 ## Olá! 🤟 Eu sou Vinicius Almeida
 
-- 🔭 Tenho experiencia em HTML e CSS
-- 🌱 Estudando Javascript e React
+- 🔭 Experiencia em HTML e CSS.
+- 🌱 Estudando Javascript, TypeScript, React e Angular
+- 👾 Tenho como objetivo me tornar um desenvolvedor Front-end!
+- 🎮 Apaixonado pelos games e pela programação.
 <div align="center">
   <a href="https://github.com/viniciusvlmeidajs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusalmeidajs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,6 +15,7 @@
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
  
 </div>
 
