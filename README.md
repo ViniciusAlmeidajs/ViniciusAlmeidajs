@@ -10,8 +10,9 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmeidajs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
+<div>
 - Algumas tecnologias que uso em meus projetos:
-<br>
+  </div>
  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> • Javascript
 <br>
  <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> • Typescript
