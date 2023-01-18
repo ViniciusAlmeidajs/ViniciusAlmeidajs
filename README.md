@@ -4,6 +4,7 @@
 - 🌱 Estudando Javascript, TypeScript, React e Angular
 - 👾 Tenho como objetivo me tornar um desenvolvedor Front-end!
 - 🎮 Apaixonado pelos games e pela programação.
+---
 <div align="center">
   <a href="https://github.com/viniciusvlmeidajs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusalmeidajs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,10 +12,11 @@
 </div>
 <div style="display: inline_block"><br>
 <div>
-- Algumas tecnologias que uso em meus projetos:
+  ---
+### Algumas tecnologias que uso em meus projetos:
   </div>
 
-  
+
  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> • Javascript
 
 <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> • Typescript 
@@ -29,11 +31,9 @@
 
 <img align="center" alt="Vini-git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> • Git
       
-  
- 
 </div>
 
-##
+### Entre em contato comigo!
 
 <div>
  <a href = "mailto:vinialexandre56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
