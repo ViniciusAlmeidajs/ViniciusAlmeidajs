@@ -2,7 +2,6 @@
 
 - 🔭 Experiencia em HTML e CSS.
 - 🌱 Estudando Javascript, TypeScript, React e Angular
-- 👾 Tenho como objetivo me tornar um desenvolvedor Front-end!
 - 🎮 Apaixonado pelos games e pela programação.
 ---
 <div align="center">
