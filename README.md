@@ -18,8 +18,7 @@ Crio sites, catálogos interativos e plataformas web para empresas brasileiras, 
 - 🔥 Desenvolvendo o **[Incendius](https://github.com/ViniciusAlmeidajs/incendius)**, uma plataforma de engenharia hidráulica para sistemas de combate a incêndio
 - 🌐 Mantenho sites institucionais, loja e blog em **WordPress / WooCommerce**
 - 🤖 Integro assistentes de IA e trabalho a visibilidade de sites em buscadores e IAs (SEO / GEO)
-- 🎮 Fora do código: games, guitarra e música pesada
-
+- 🎮 Fora do código: games, filmes, academia e música boa 
 ---
 
 ## 🚀 Projeto em destaque
@@ -58,10 +57,10 @@ Plataforma full-stack para dimensionamento de sistemas de combate a incêndio.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusalmeidajs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmeidajs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/viniciusalmeidajs/viniciusalmeidajs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" width="49%" />
 </p>
