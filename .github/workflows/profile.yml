@@ -1,0 +1,29 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # todo dia, ~00h17 no horário de Brasília
+  workflow_dispatch: # permite rodar manualmente pela aba Actions
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      # Cards de estatística -> pasta profile-summary-card-output/ no branch main
+      - name: Gerar cards de estatística
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
