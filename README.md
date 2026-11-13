@@ -1,39 +1,67 @@
-## Olá! 🤟 Eu sou Vinicius Almeida
+<h1 align="center">Olá, eu sou o Vinicius Almeida 🤟</h1>
 
-- 🔭 Experiencia em HTML e CSS.
-- 🌱 Estudando Javascript, TypeScript, React e Angular
-- 🎮 Apaixonado pelos games e pela programação.
+<p align="center">
+  <b>Desenvolvedor Web Full-Stack</b> · Bacharel em Ciência da Computação · Mauá, SP 🇧🇷
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-almeida-050836155" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vinialexandre56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
 ---
-<div align="center">
-  <a href="https://github.com/viniciusvlmeidajs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusalmeidajs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmeidajs&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  ### Ferramentas e Linguagens dos projetos:
-  
-<div style="display: inline_block"><br>
 
- <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> • Javascript
+## 👨‍💻 Sobre mim
 
-<img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> • Typescript 
-  
-<img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> • HTML 5
+Crio sites, catálogos interativos e plataformas web para empresas brasileiras, com foco no setor de **combate a incêndio e equipamentos de segurança**. Gosto de pegar um problema real do cliente e transformar em uma ferramenta que as pessoas de fato usam no dia a dia.
 
-<img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> • CSS 
+- 🔥 Desenvolvendo o **[Incendius](https://github.com/ViniciusAlmeidajs/incendius)**, uma plataforma de engenharia hidráulica para sistemas de combate a incêndio
+- 🌐 Mantenho sites institucionais, loja e blog em **WordPress / WooCommerce**
+- 🤖 Integro assistentes de IA e trabalho a visibilidade de sites em buscadores e IAs (SEO / GEO)
+- 🎮 Fora do código: games, guitarra e música pesada
 
-<img align="center" alt="Vini-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> • Angular
+---
 
-<img align="center" alt="Vini-git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> • Git
-      
-</div>
+## 🚀 Projeto em destaque
 
-### Entre em contato comigo!
+### [Incendius](https://github.com/ViniciusAlmeidajs/incendius)
+Plataforma full-stack para dimensionamento de sistemas de combate a incêndio.
 
-<div>
- <a href = "mailto:vinialexandre56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vinicius-almeida-050836155" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- Calculadoras baseadas na **NBR 13714**, **NFPA 11** e **NFPA 15**
+- Conversores de unidades e exportação de relatórios em **PDF e Excel**
+- Autenticação **JWT**, internacionalização **PT-BR / EN-US** e sistema **white-label**
+- Testes automatizados e deploy do front na **Vercel**
 
-![Snake animation](https://github.com/viniciusalmeidajs/viniciusalmeidajs/blob/output/github-contribution-grid-snake.svg)
- 
+`React 19` `Vite` `TypeScript` `NestJS` `PostgreSQL` `Docker`
+
+---
+
+## 🛠️ Stack
+
+**Front-end**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,angular,bootstrap" alt="Front-end" />
+</p>
+
+**Back-end & Banco de dados**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,firebase" alt="Back-end" />
+</p>
+
+**CMS, Deploy & Ferramentas**
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,docker,vercel,git,github,vscode" alt="Ferramentas" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusalmeidajs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmeidajs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/viniciusalmeidajs/viniciusalmeidajs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
