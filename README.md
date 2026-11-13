@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Vinicius Almeida 🤟</h1>
+<h1 align="center">Vinicius Almeida</h1>
 
 <p align="center">
   <b>Desenvolvedor Web Full-Stack</b> · Bacharel em Ciência da Computação · Mauá, SP 🇧🇷
